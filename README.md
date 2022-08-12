@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Still working on final commits and READMEs of my repos. It will look way better soon xD
+
 <!--
 **joanskenderi/joanskenderi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,9 +2,9 @@
 
 ### :technologist: About Me :
 
-- I started to code in summer of 2021.
-- I’m currently working on web and mobile applications using ReactJS and React Native.
-- I like to follow tutorials to learn new things and clone applications.
+- I started to code in summer of 2021
+- I’m currently working on web and mobile applications using ReactJS and React Native
+- I like to follow tutorials to learn new things and clone applications
 
 ### :technologist: Connect with me on LinkedIn:
 <a href="https://www.linkedin.com/in/joanskenderi/" target="_blank">
@@ -13,7 +13,7 @@
 
 ---
 
-### :hammer_and_wrench: Tech stack used in the repos:
+### :hammer_and_wrench: Technologies used in the repos:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />&nbsp;

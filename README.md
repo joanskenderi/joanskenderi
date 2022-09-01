@@ -1,10 +1,10 @@
-## Hi there 👋, my name is Joan and I am a Software Developer from Albania 🇦🇱!
+## Hi there 👋, my name is Joan and I am a software developer from Albania 🇦🇱
 
 #### :man_technologist: About Me :
 
-🔭 I’m currently working on web and mobile applications &nbsp;
-🌱 I’m currently learning more about ReactJS and React Native &nbsp;
-⚡️ In my free time I follow tutorials and clone apps
+- I started to code in summer of 2021
+- I’m currently working on web and mobile applications using ReactJS and React Native
+- I like to follow tutorials to learn new things and to clone applications
 
 ---
 
@@ -19,13 +19,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" />&nbsp;          
 
 ---
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joanskenderi&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanskenderi&layout=compact)](https://github.com/joanskenderi/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joanskenderi&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanskenderi&layout=compact)](https://github.com/joanskenderi/github-readme-stats)

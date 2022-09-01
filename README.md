@@ -2,9 +2,13 @@
 
 #### :man_technologist: About Me :
 
-- I started to code in summer of 2021
-- I’m currently working on web and mobile applications using ReactJS and React Native
-- I like to follow tutorials to learn new things and to clone applications
+- I started to code in summer of 2021.
+- I’m currently working on web and mobile applications using ReactJS and React Native.
+- I like to follow tutorials to learn new things and to clone applications.
+
+<a href="https://www.linkedin.com/in/joanskenderi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 ---
 
@@ -25,4 +29,5 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joanskenderi&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanskenderi&layout=compact)](https://github.com/joanskenderi/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joanskenderi&theme=light&background=ffffff)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanskenderi&layout=compact)](https://github.com/joanskenderi/github-readme-stats)

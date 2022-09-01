@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Joan and I am a software developer from Albania 🇦🇱
 
-### :man_technologist: About Me :
+### :technologist: About Me :
 
 - I started to code in summer of 2021.
 - I’m currently working on web and mobile applications using ReactJS and React Native.

@@ -1,20 +1,12 @@
 ### Hi there 👋
 
-## Still working on final commits and READMEs of my repos. It will look way better soon xD
+## :man_technologist: About Me :
 
-<!--
+I am a Software Developer from Albania.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on mobile and web applications.
+- 🌱 I’m currently learning more about ReactJS and React Native.
+- ⚡️ In my free time I follow tutorials and clone mobile apps.
 
 ---
 
@@ -50,4 +42,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/joanskenderi/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/joanskenderi/github-readme-stats) -->

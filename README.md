@@ -30,8 +30,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" />&nbsp;   
 
----
 
 <!--
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanskenderi&layout=compact)](https://github.com/joanskenderi/github-readme-stats)
 -->

@@ -32,4 +32,6 @@
 
 ---
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanskenderi&layout=compact)](https://github.com/joanskenderi/github-readme-stats)
+-->

@@ -5,7 +5,7 @@
 - I started to code in summer of 2021
 - I’m currently working on web and mobile applications using ReactJS and React Native
 - I like to follow tutorials to learn new things and clone applications
-- All the repos will soon be in a chronological order, from oldest to newest :)
+- All the repos will soon be in chronological order, from oldest to newest :)
 
 ### :technologist: Connect with me on LinkedIn:
 <a href="https://www.linkedin.com/in/joanskenderi/" target="_blank">

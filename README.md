@@ -7,7 +7,20 @@
 - I like to follow tutorials to learn new things and clone applications
 - All the repos will soon be in chronological order, from oldest to newest :)
 
-<!-- test -->
+<!-- Repos order:
+1 - Robotics-and-Artificial-Intelligence 
+2 - Omnifood
+3 - Natours
+4 - Nexter
+5 - Java from Scratch
+6 - Helius Systems internship
+7 - Udemy React.js course
+8 - Meta front end professional certificate
+9 - Udemy React Native course
+10 - Meta react native specialization
+11 - UPS
+12 - College
+-->
 
 ### :technologist: Connect with me on LinkedIn:
 <a href="https://www.linkedin.com/in/joanskenderi/" target="_blank">

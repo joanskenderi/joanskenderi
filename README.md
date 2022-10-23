@@ -7,6 +7,8 @@
 - I like to follow tutorials to learn new things and clone applications
 - All the repos will soon be in chronological order, from oldest to newest :)
 
+<!-- -->
+
 ### :technologist: Connect with me on LinkedIn:
 <a href="https://www.linkedin.com/in/joanskenderi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

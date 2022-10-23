@@ -15,9 +15,9 @@
 5 - Java from Scratch
 6 - Helius Systems internship
 7 - Udemy React.js course
-8 - Meta front end professional certificate
+8 - Meta Front End Professional Certificate
 9 - Udemy React Native course
-10 - Meta react native specialization
+10 - Meta React Native Specialization
 11 - UPS
 12 - College
 -->

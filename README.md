@@ -7,7 +7,7 @@
 - I like to follow tutorials to learn new things and clone applications
 - All the repos will soon be in chronological order, from oldest to newest :)
 
-<!-- -->
+<!-- test -->
 
 ### :technologist: Connect with me on LinkedIn:
 <a href="https://www.linkedin.com/in/joanskenderi/" target="_blank">

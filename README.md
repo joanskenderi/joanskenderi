@@ -1,15 +1,7 @@
 ## Hi there 👋, my name is Joan and I am a software developer from Albania 🇦🇱
 
 ### :technologist: About Me :
-
-- I started to code in summer of 2021
-- I’m currently working on web and mobile applications using ReactJS and React Native
-- I like to follow tutorials to learn new things and clone applications
-
-### :technologist: Connect with me on LinkedIn:
-<a href="https://www.linkedin.com/in/joanskenderi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+Software developer with industry experience building web and mobile applications.
 
 ### :hammer_and_wrench: Technologies used in my repositories:
 
@@ -54,3 +46,8 @@
 #### Others
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />&nbsp;
+
+### :technologist: Connect with me on LinkedIn:
+<a href="https://www.linkedin.com/in/joanskenderi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>

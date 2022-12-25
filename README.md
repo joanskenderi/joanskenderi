@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Joan and I am a software developer from Albania 🇦🇱
 
 ### :technologist: About Me :
-Software developer with industry experience building web and mobile applications.
+Software developer with industry experience building web and mobile applications. I have professional experience working with ReactJS and React Native. Always interested in learning new technologies and stacks, mainly JavaScript.
 
 ### :hammer_and_wrench: Technologies used in my repositories:
 

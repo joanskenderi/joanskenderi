@@ -3,11 +3,6 @@
 ### :technologist: About Me
 Software developer with industry experience building web and mobile applications. I have professional experience working with ReactJS and React Native. Always interested in learning new technologies and stacks, mainly JavaScript.
 
-### :technologist: Connect with me
-<a href="https://www.linkedin.com/in/joanskenderi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
 ### :hammer_and_wrench: Technologies used in my repositories
 
 #### Core
